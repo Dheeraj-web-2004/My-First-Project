@@ -28,4 +28,4 @@ This project showcases my ability to **transform design concepts into responsive
 
 ###  **Website Links**  
 - **Orignal Website**:https://portal.ccbp.in/nxt-talks#claim-your-free-access
-- **Cloned Website**: dheerajpraj.ccbp.tech
+- **Cloned Website**: https://dheerajpraj.ccbp.tech
