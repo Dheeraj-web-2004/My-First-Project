@@ -28,4 +28,4 @@ This project showcases my ability to **transform design concepts into responsive
 
 ###  **Website Links**  
 - **Orignal Website**:https://portal.ccbp.in/nxt-talks#claim-your-free-access
-- **Cloned Website**: Implemented **media queries** to ensure a seamless experience across different devices 
+- **Cloned Website**: dheerajpraj.ccbp.tech
